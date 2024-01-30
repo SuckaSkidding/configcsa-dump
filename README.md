@@ -1,5 +1,5 @@
 # configcsa-dump
-
+ !!!!STOP DMING ME TO FCKING ASK IF I CRACKED IT PLEASE!!!!
 their link to this poor shit software pasted (baguette link): https://configcsa.com
 
 Hey , today i looked at a software called ConfigCsa ( a french software for many games), this software is just emulating a controler to give you aim assist on fps games.
