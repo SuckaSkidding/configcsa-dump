@@ -21,5 +21,5 @@ after all of this , you would be in the main pannel of their launcher , but if y
 
 I'm so bad with c# so i let you guys crack it 
 
-Please lmk if you cracked it : Sucka#2992
+Please lmk if you cracked it : sucka2992
 
